@@ -14,10 +14,10 @@ To install and run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Vi-QAN/MultiStore.git
 
 2. Navigate to the project directory:
-   cd your-repo
+   cd MultiStore
 
 3. Install dependencies:
    npm install
